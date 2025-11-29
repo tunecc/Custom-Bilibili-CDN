@@ -8,3 +8,11 @@
 1. 把自定义CDN的选项放到了播放器的设置里面（主要）
 2. AI为脚本做的各种优化
 3. 去掉了原版的强力模式
+
+效果图：
+
+![image](https://raw.githubusercontent.com/tunecc/Custom-Bilibili-CDN/refs/heads/main/photo.png)
+
+# 使用
+
+https://raw.githubusercontent.com/tunecc/Custom-Bilibili-CDN/refs/heads/main/CBC.js
